@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 84a9ed2577b80574eb9425ef9d6b659f
+timeCreated: 1521329012
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DiceImage1: {fileID: 21300000, guid: 2552344ca16992146a1d73ce77e3ab4d, type: 3}
+  - DiceImage2: {fileID: 21300000, guid: 85fedd3e43122f34094ec51c427a5232, type: 3}
+  - DiceImage3: {fileID: 21300000, guid: ad6322706748976488e9f33bd451c601, type: 3}
+  - DiceImage4: {fileID: 21300000, guid: a811bd374a74a9b4bb511d1bbf055c70, type: 3}
+  - DiceImage5: {fileID: 21300000, guid: 20cb1940600ae0f4c9feb1fee35d35c4, type: 3}
+  - DiceImage6: {fileID: 21300000, guid: ff11abeb7ca99154098cd818f46e39c5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
